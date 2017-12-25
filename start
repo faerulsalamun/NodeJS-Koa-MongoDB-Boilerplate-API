@@ -1,0 +1,6 @@
+#!/bin/sh
+
+export NODE_ENV=fivecode
+export PORT=8080
+
+DEBUG=app nodemon -e js app.js

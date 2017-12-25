@@ -1,0 +1,38 @@
+{
+  "server": {
+    "host": "localhost",
+    "port": 8084
+  },
+  "database":{
+    "mongodb":{
+      "host": "localhost",
+      "port": "27017",
+      "dbname": "fivecode",
+      "username": "",
+      "password": "",
+      "prefix":"fc_"
+    }
+  },
+  "aws":{
+    "bucket": "",
+    "accessKeyId": "",
+    "secretAccessKey": "",
+    "region": ""
+  },
+  "redis":{
+    "host":"127.0.0.1",
+    "port":6379,
+    "password":""
+  },
+  "fcm":{
+    "key":""
+  },
+  "s3":{
+    "bucket":"",
+    "replace":""
+  },
+  "sendGrid":{
+    "apiKeyId": "",
+    "apiKeyPass": ""
+  }
+}

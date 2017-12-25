@@ -1,0 +1,16 @@
+.DS_Store
+node_modules
+template_docs
+bower_components
+*.log
+.tmp
+.idea
+npm-debug.log
+log
+phantomjsdriver.log
+/assets/upload/*
+/config/production.json
+/config/live.json
+/config-aws.json
+yarn-error.log
+/apidoc

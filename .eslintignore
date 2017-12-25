@@ -1,0 +1,15 @@
+docs
+tools
+node_modules
+bower_components
+*.log
+.tmp
+.idea
+memstats
+app/public/upload
+config/*
+!config/index.js
+test
+assets/
+service-worker.js
+apidoc
